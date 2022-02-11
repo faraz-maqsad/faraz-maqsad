@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Faraz
+- 👀 I’m interested in Mobile App Development
+- 📫 Reach me via email at: faraz@maqsad.io
